@@ -1,0 +1,5 @@
+RippleScope impact analysis prompt (placeholder)
+
+This prompt will ask Copado Agentia Headless to compare a Copado User
+Story's stated intent with the actual blast radius of its Salesforce
+changes. It has not been written yet.
