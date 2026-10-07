@@ -1,7 +1,7 @@
 {
   "name": "ripplescope",
   "version": "1.0.0",
-  "description": "Compare a Copado User Story's intent against the actual blast radius of its Salesforce changes.",
+  "description": "Before You Push, Know What Ripples. Agentia-powered pre-release blast-radius analyzer for Salesforce changes.",
   "private": true,
   "type": "module",
   "bin": {
